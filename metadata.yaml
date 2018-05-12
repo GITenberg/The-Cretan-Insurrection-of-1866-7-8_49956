@@ -1,4 +1,8 @@
 _repo: The-Cretan-Insurrection-of-1866-7-8_49956
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49956-h/images/cover.jpg
 creator:
   author:
     agent_name: Stillman, William James
@@ -9,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4020
     wikipedia: http://en.wikipedia.org/wiki/William_James_Stillman
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49956#The-Cretan-Insurrection-of-1866-7-8
 gutenberg_issued: '2015-09-13'
 gutenberg_type: Text
 identifiers:
